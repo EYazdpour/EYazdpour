@@ -16,14 +16,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-liart-mu.vercel.app/api/spotify)](https://open.spotify.com/user/ppf9ooa65nbcup30zsdyscobr?si=07baf07d78d5442a)
-
----
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330)]()
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![MongoDb](https://img.shields.io/badge/MongoDb-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)]()

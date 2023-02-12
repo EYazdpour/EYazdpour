@@ -1,16 +1,14 @@
 # Hi there, I'm Erfan <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 
-## I'm a full-stack web developer
-- 📍 I live in Toronto, Ontario, Canada.
+## I'm a data geek
+- 📍 I live in Ontario, Canada.
 - 💻 My passion is to create new things and solve complicated problems!
 - 📚 New technologies intrigue me, so I am constantly striving to learn them.
-- 🔴 I often stream on Twitch and vlogging on my Youtube channel
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErfanYzp)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EYazdpour)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/whyErfan)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUw_yAhUX6OKUPtul80aDhQ?sub_confirmation=1)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazdpour/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erfan_yazdpour/)
 
